@@ -52,8 +52,7 @@ A conversational AI chatbot that allows users to ask questions about any YouTube
 
 ## 📦 Installation
 ```bash
-git clone https://github.com/your-username/youtube-chatbot.git
-cd youtube-chatbot
+git clone https://github.com/QuantumByteX/YouTube_Chatbot.git
 pip install -r requirements.txt
 ```
 
