@@ -77,7 +77,7 @@ streamlit run Home.py
 
 ## 👤 Author
 
-Roshan Bhurtel
+Roshan Bhurtel<br>  
 AI / ML Enthusiast
 
 ---
